@@ -1,0 +1,7 @@
+{
+    "require": {
+        "rubix/ml": "^1.3",
+        "league/csv": "^9.8",
+        "tightenco/collect": "^9.4"
+    }
+}
